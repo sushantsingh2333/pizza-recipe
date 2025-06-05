@@ -2,3 +2,7 @@ flour
 sauce
 cheese
 toppings
+vegtables
+truck
+car
+bus
